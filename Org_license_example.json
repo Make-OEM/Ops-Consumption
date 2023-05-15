@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Orgtest",
+        "license": {
+            "dslimit": 50,
+            "fslimit": 1048576000,
+            "iolimit": 10000,
+            "apiLimit": 2000,
+            "dsslimit": 230686720,
+            "fulltext": true,
+            "interval": 1,
+            "transfer": 104857600,
+            "operations": 800000000,
+            "scenarioIO": true,
+            "gracePeriod": 7,
+            "executionTime": 60,
+            "restartPeriod": "1 month",
+            "customVariables": true,
+            "creatingTemplates": true,
+            "installPublicApps": true,
+            "productManagement": "salesforce",
+            "onDemandScheduling": true
+        },
+        "countryId": 42,
+        "timezoneId": 113
+    }
+]
