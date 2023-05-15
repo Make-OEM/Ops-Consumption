@@ -15,3 +15,5 @@ The set is composed of 5 scenarios, 2 of which are cloned for each organization,
 This set of scenarios is only valid for organizations with a monthly renewal. If the renewal is on a yearly basis, the scenarios need to be adapted to the fact that the returned consumption data is from the last 60 days, following a rolling window model. 
 
 Please upload all these scenarios in a separate folder using their blueprints. Create the 3 Data Store using the provided structure and connect the right data to each scenario following the overall architecture document. 
+
+Please use the Data Store example in order to create their structure.
