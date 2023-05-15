@@ -1,6 +1,8 @@
 # Ops-Consumption
 The Make OEM Whitelabel administrator might need to monitor the monthly operation consumption of the organizations within their instance. 
 
+Please refer to the Consumption Monitoring Architecture file in order to get an overview of this solution.
+
 This set of scenarios allows the monitoring of each organization's monthly consumption, by getting the consumption automatically before each monthly reset as well as a continuous monitoring with a frequency that could be adapted in order to be aware of the consumption levels of each organization and maybe set some notifications or alarms. 
 
 The set is composed of 5 scenarios, 2 of which are cloned for each organization, as well as 3 data stores.
